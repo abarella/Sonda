@@ -1,15 +1,6 @@
-Pular para o conteúdo
-Histórico de chats
+# SONDA - MONITORAÇÃO
 
-Você disse:
-me de um exemplo do readme.md para c#
-O ChatGPT disse:
-Claro! Aqui está um exemplo de um README.md para um projeto C#. Esse exemplo assume que é um projeto de API com ASP.NET Core, mas posso ajustar conforme o tipo de projeto que você estiver desenvolvendo (console, biblioteca, desktop, etc.).
-
-# NomeDoProjeto
-
-Uma breve descrição do projeto.  
-Exemplo: Uma API RESTful desenvolvida em ASP.NET Core para gerenciamento de produtos.
+Este projeto tem o objetivo de elaborar as documentações de notas fiscais, iatas, guias e etc. quando o produto passa na esteira e faz a leitura do codigo de barras e a atividade radioativa (geiger) de cada produto da linha.
 
 ## ?? Tecnologias
 
