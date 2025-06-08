@@ -57,14 +57,7 @@ NomeDoProjeto/
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 ?? Autor
-Desenvolvido por Seu Nome.
-
-
----
-
-Se você quiser, posso gerar um exemplo para um projeto console, biblioteca (DLL), WPF, MAUI, ou outro tipo. Deseja personalizar para seu caso específico?
+Desenvolvido por Alberto Barella Jr.
 
 
 
-Nenhum arquivo escolhidoNenhum arquivo escolhido
-O ChatGPT pode cometer erros. Considere verificar informações importantes.
