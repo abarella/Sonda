@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROJETOS\\Sonda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE4F134-F29E-4C6D-A48F-C2D359305989}|MONITORACAO_EMBALADO.vbproj|d:\\projetos\\sonda\\class\\clsmonitorar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2CE4F134-F29E-4C6D-A48F-C2D359305989}|MONITORACAO_EMBALADO.vbproj|solutionrelative:class\\clsmonitorar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE4F134-F29E-4C6D-A48F-C2D359305989}|MONITORACAO_EMBALADO.vbproj|D:\\PROJETOS\\Sonda\\forms\\frmmonitorarembalados.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2CE4F134-F29E-4C6D-A48F-C2D359305989}|MONITORACAO_EMBALADO.vbproj|solutionrelative:forms\\frmmonitorarembalados.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE4F134-F29E-4C6D-A48F-C2D359305989}|MONITORACAO_EMBALADO.vbproj|D:\\PROJETOS\\Sonda\\forms\\frmabrirmonitaracao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2CE4F134-F29E-4C6D-A48F-C2D359305989}|MONITORACAO_EMBALADO.vbproj|solutionrelative:forms\\frmabrirmonitaracao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE4F134-F29E-4C6D-A48F-C2D359305989}|MONITORACAO_EMBALADO.vbproj|D:\\PROJETOS\\Sonda\\module\\principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2CE4F134-F29E-4C6D-A48F-C2D359305989}|MONITORACAO_EMBALADO.vbproj|solutionrelative:module\\principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE4F134-F29E-4C6D-A48F-C2D359305989}|MONITORACAO_EMBALADO.vbproj|D:\\PROJETOS\\Sonda\\forms\\frmmonitorarembalados.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2CE4F134-F29E-4C6D-A48F-C2D359305989}|MONITORACAO_EMBALADO.vbproj|solutionrelative:forms\\frmmonitorarembalados.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE4F134-F29E-4C6D-A48F-C2D359305989}|MONITORACAO_EMBALADO.vbproj|D:\\PROJETOS\\Sonda\\forms\\mdiprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2CE4F134-F29E-4C6D-A48F-C2D359305989}|MONITORACAO_EMBALADO.vbproj|solutionrelative:forms\\mdiprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE4F134-F29E-4C6D-A48F-C2D359305989}|MONITORACAO_EMBALADO.vbproj|D:\\PROJETOS\\Sonda\\class\\conexao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2CE4F134-F29E-4C6D-A48F-C2D359305989}|MONITORACAO_EMBALADO.vbproj|solutionrelative:class\\conexao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE4F134-F29E-4C6D-A48F-C2D359305989}|MONITORACAO_EMBALADO.vbproj|D:\\PROJETOS\\Sonda\\class\\executar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2CE4F134-F29E-4C6D-A48F-C2D359305989}|MONITORACAO_EMBALADO.vbproj|solutionrelative:class\\executar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMonitorarEmbalados.vb",
+              "DocumentMoniker": "D:\\PROJETOS\\Sonda\\Forms\\frmMonitorarEmbalados.vb",
+              "RelativeDocumentMoniker": "Forms\\frmMonitorarEmbalados.vb",
+              "ToolTip": "D:\\PROJETOS\\Sonda\\Forms\\frmMonitorarEmbalados.vb",
+              "RelativeToolTip": "Forms\\frmMonitorarEmbalados.vb",
+              "ViewState": "AgIAADUCAAAAAAAAAAAkwDwCAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-20T12:07:32.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmMonitorarEmbalados.vb [Design]",
+              "DocumentMoniker": "D:\\PROJETOS\\Sonda\\Forms\\frmMonitorarEmbalados.vb",
+              "RelativeDocumentMoniker": "Forms\\frmMonitorarEmbalados.vb",
+              "ToolTip": "D:\\PROJETOS\\Sonda\\Forms\\frmMonitorarEmbalados.vb [Design]",
+              "RelativeToolTip": "Forms\\frmMonitorarEmbalados.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-20T12:07:24.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Executar.vb",
+              "DocumentMoniker": "D:\\PROJETOS\\Sonda\\Class\\Executar.vb",
+              "RelativeDocumentMoniker": "Class\\Executar.vb",
+              "ToolTip": "D:\\PROJETOS\\Sonda\\Class\\Executar.vb",
+              "RelativeToolTip": "Class\\Executar.vb",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-19T20:42:38.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsMonitorar.vb",
+              "DocumentMoniker": "D:\\PROJETOS\\Sonda\\Class\\clsMonitorar.vb",
+              "RelativeDocumentMoniker": "Class\\clsMonitorar.vb",
+              "ToolTip": "D:\\PROJETOS\\Sonda\\Class\\clsMonitorar.vb",
+              "RelativeToolTip": "Class\\clsMonitorar.vb",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAuwGgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-17T13:10:56.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmAbrirMonitaracao.vb",
+              "DocumentMoniker": "D:\\PROJETOS\\Sonda\\Forms\\frmAbrirMonitaracao.vb",
+              "RelativeDocumentMoniker": "Forms\\frmAbrirMonitaracao.vb",
+              "ToolTip": "D:\\PROJETOS\\Sonda\\Forms\\frmAbrirMonitaracao.vb",
+              "RelativeToolTip": "Forms\\frmAbrirMonitaracao.vb",
+              "ViewState": "AgIAABoAAAAAAAAAAAA/wCYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-22T17:55:43.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Principal.vb",
+              "DocumentMoniker": "D:\\PROJETOS\\Sonda\\Module\\Principal.vb",
+              "RelativeDocumentMoniker": "Module\\Principal.vb",
+              "ToolTip": "D:\\PROJETOS\\Sonda\\Module\\Principal.vb",
+              "RelativeToolTip": "Module\\Principal.vb",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-22T17:55:43.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "mdiPrincipal.vb [Design]",
+              "DocumentMoniker": "D:\\PROJETOS\\Sonda\\Forms\\mdiPrincipal.vb",
+              "RelativeDocumentMoniker": "Forms\\mdiPrincipal.vb",
+              "ToolTip": "D:\\PROJETOS\\Sonda\\Forms\\mdiPrincipal.vb [Design]",
+              "RelativeToolTip": "Forms\\mdiPrincipal.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-20T13:23:36.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Conexao.vb",
+              "DocumentMoniker": "D:\\PROJETOS\\Sonda\\Class\\Conexao.vb",
+              "RelativeDocumentMoniker": "Class\\Conexao.vb",
+              "ToolTip": "D:\\PROJETOS\\Sonda\\Class\\Conexao.vb",
+              "RelativeToolTip": "Class\\Conexao.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-11T20:02:57.102Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

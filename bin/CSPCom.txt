@@ -1,0 +1,344 @@
+/////////////////////////////////////////////////////////
+//		CSPCom.txt			Date :	07/16/12
+/////////////////////////////////////////////////////////
+--15:53:45--	Cannot read the probe's name 	StxEtx signale un time-out en réception
+--15:53:46--	Cannot read the probe's name 	StxEtx signale un time-out en réception
+--15:53:47--	Cannot read the probe's name 	StxEtx signale un time-out en réception
+--15:53:47--	Error 	StxEtx signale un time-out en réception
+--15:53:56--	Error 	Cannot open communication port
+/////////////////////////////////////////////////////////
+//		CSPCom.txt			Date :	07/23/12
+/////////////////////////////////////////////////////////
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+--14:20:37--	Count Channel 2  	0
+-- Counts --	Channel 1	0	Channel 2	1
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+--14:20:38--	Count Channel 2  	1
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+--14:20:39--	Count Channel 2  	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+--14:20:40--	Count Channel 2  	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+--14:20:41--	Count Channel 2  	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+--14:20:42--	Count Channel 2  	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+--14:20:43--	Count Channel 2  	0
+-- Counts --	Channel 1	0	Channel 2	1
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+--14:20:44--	Count Channel 2  	1
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+--14:20:45--	Count Channel 2  	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+--14:20:46--	Count Channel 2  	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+--14:20:47--	Count Channel 2  	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+--14:20:48--	Count Channel 2  	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+--14:20:49--	Count Channel 2  	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+--14:20:50--	Count Channel 2  	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+--14:20:51--	Count Channel 2  	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+--14:20:52--	Count Channel 2  	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+--14:20:53--	Count Channel 2  	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+--14:20:55--	Count Channel 2  	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	1
+--14:20:56--	Count Channel 2  	1
+-- Counts --	Channel 1	0	Channel 2	1
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+--14:20:57--	Count Channel 2  	1
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+--14:20:58--	Count Channel 2  	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+--14:20:59--	Count Channel 2  	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	1
+-- Counts --	Channel 1	0	Channel 2	0
+--14:21:00--	Count Channel 2  	1
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+--14:21:01--	Count Channel 2  	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+-- Counts --	Channel 1	0	Channel 2	0
+--14:21:04--	Reading Table Unit 	
+	Unit System :	Reading Table Unit
+	Mixt Position :	268473396
+	--Unit Array--
+	14
+	240
+	255
+	255
+	255
+	255
+	255
+	255
+	255
+	255
+	Aucune erreur
+--14:21:04--	Reading Current Parameters 	
+	Unit :	Sv/h
+	Surface Detection :	1320.00
+	--CHANNEL 1--
+	Coefficient :	10.00
+	Alarm Level Index :	0
+	Alarm Level :	2000.00
+	Saturation Level:	100000000.00
+	--CHANNEL 2--
+	Coefficient :	11.38
+	Alarm Level Index :	0
+	Alarm Level :	100.00
+	Saturation Level:	100000000.00
+	Aucune erreur
+--14:21:06--	Reading Alarm Level Index 	
+	Channel :	2
+	Unit :	c/s
+	Aucune erreur
+	Aucune erreur
+--14:21:06--	Reading Alarm Levels 	
+Unit :	c/s
+	Index :	0
+	--Alarm Levels--
+	-1.#R
+	-1.#R
+	-1.#R
+	-1.#R
+	-1.#R
+	-1.#R
+	-1.#R
+	-1.#R
+	0.00
+	0.00
+	0.00
+	0.00
+	0.00
+	0.00
+	0.00
+	0.00
+	0.00
+	0.00
+	0.00
+	0.00
+	Aucune erreur
+--14:21:11--	Error 	StxEtx signale un time-out en réception
+--14:21:12--	Cannot read current parameters from the probe 	StxEtx signale un time-out en réception
+--14:21:13--	Cannot read current parameters from the probe 	StxEtx signale un time-out en réception
+--14:21:14--	Cannot read current parameters from the probe 	StxEtx signale un time-out en réception
+--14:21:15--	Error 	StxEtx signale un time-out en réception
+--14:21:16--	Cannot read units tables from the probe
+ 	StxEtx signale un time-out en réception
+--14:21:17--	Cannot read units tables from the probe
+ 	StxEtx signale un time-out en réception
+--14:21:18--	Cannot read units tables from the probe
+ 	StxEtx signale un time-out en réception
+--14:21:18--	Error 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:21:20--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:21:21--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:21:22--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+--14:21:22--	Error 	StxEtx signale un time-out en réception
+--14:21:22--	Count Channel 2  	1652
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:21:23--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:21:24--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:21:26--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+--14:21:26--	Error 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:21:27--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:21:28--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:21:29--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+--14:21:29--	Error 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:21:30--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:21:31--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:21:32--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+--14:21:32--	Error 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:21:33--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:21:35--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:21:36--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+--14:21:36--	Error 	StxEtx signale un time-out en réception
+--14:21:36--	Count Channel 2  	6608
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:21:37--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:21:38--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:21:39--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+--14:21:39--	Error 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:21:40--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:21:41--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:21:42--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+--14:21:42--	Error 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:21:44--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:21:45--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:21:46--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+--14:21:46--	Error 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:21:47--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:21:48--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:21:49--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+--14:21:49--	Error 	StxEtx signale un time-out en réception
+--14:21:49--	Count Channel 2  	6608
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:21:50--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:21:51--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:21:53--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+--14:21:53--	Error 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:21:54--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:21:55--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:21:56--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+--14:21:56--	Error 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:22:00--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:22:01--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:22:02--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+--14:22:02--	Error 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:22:03--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:22:04--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:22:05--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+--14:22:05--	Error 	StxEtx signale un time-out en réception
+--14:22:05--	Count Channel 2  	6608
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:22:06--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:22:07--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:22:09--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+--14:22:09--	Error 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:22:10--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:22:11--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:22:12--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+--14:22:12--	Error 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:22:14--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:22:15--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:22:16--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+--14:22:16--	Error 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:22:18--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:22:19--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+-- Counts --	Channel 1	57836	Channel 2	1652
+--14:22:21--	Cannot read counts from the probe 	StxEtx signale un time-out en réception
+--14:22:21--	Error 	StxEtx signale un time-out en réception
+--14:22:21--	Count Channel 2  	6608
+--14:22:24--	Cannot read the probe's name 	StxEtx signale un time-out en réception
+--14:22:25--	Cannot read the probe's name 	StxEtx signale un time-out en réception
+--14:22:27--	Cannot read the probe's name 	StxEtx signale un time-out en réception
+--14:22:27--	Error 	StxEtx signale un time-out en réception
+--14:22:28--	Cannot read version from the probe 	StxEtx signale un time-out en réception
+--14:22:29--	Cannot read version from the probe 	StxEtx signale un time-out en réception
+--14:22:30--	Cannot read version from the probe 	StxEtx signale un time-out en réception
+--14:22:30--	Error 	StxEtx signale un time-out en réception
+/////////////////////////////////////////////////////////
+//		CSPCom.txt			Date :	01/16/25
+/////////////////////////////////////////////////////////
+--10:05:09--	Cannot read the probe's name 	StxEtx signale un time-out en réception
+--10:05:10--	Cannot read the probe's name 	StxEtx signale un time-out en réception
+--10:05:12--	Cannot read the probe's name 	StxEtx signale un time-out en réception
+--10:05:12--	Error 	StxEtx signale un time-out en réception
