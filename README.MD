@@ -43,20 +43,20 @@ A API estará disponível em: https://localhost:5001 ou http://localhost:5000
 Para rodar os testes unitários:
 
 dotnet test
-?? Estrutura do Projeto
+⭐ Estrutura do Projeto
 SONDA/
-?
-??? Controllers/       # Controllers da API
-??? Models/            # Modelos de dados
-??? Data/              # Contexto do banco de dados
-??? Services/          # Regras de negócio
-??? DTOs/              # Objetos de transferência de dados
-??? Program.cs         # Ponto de entrada da aplicação
-??? appsettings.json   # Configurações do projeto
-?? Licença
+⭐ 
+⭐ Controllers/       # Controllers da API
+⭐ Models/            # Modelos de dados
+⭐ Data/              # Contexto do banco de dados
+⭐ Services/          # Regras de negócio
+⭐ DTOs/              # Objetos de transferência de dados
+⭐ Program.cs         # Ponto de entrada da aplicação
+⭐ appsettings.json   # Configurações do projeto
+🤔 Licença
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-?? Autor
+🧠 Autor
 Desenvolvido por Alberto Barella Jr.
 
 
